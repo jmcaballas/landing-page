@@ -38,3 +38,9 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.content4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
