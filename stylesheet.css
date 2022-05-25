@@ -86,3 +86,9 @@ ul {
     color: #E5E7EB;
     cursor: pointer;
 }
+
+.image-title {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
