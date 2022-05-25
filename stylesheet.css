@@ -5,12 +5,15 @@ html {
 }
 
 body {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    max-height: 100vh;
+    max-width: 100vw;
     margin: 0;
     font-family: "Roboto", sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
 }
 
 .header {
@@ -152,6 +155,14 @@ button {
     margin-top: 1rem;
 }
 
+.left-header img {
+    max-height: 4rem;
+}
+
 .right-content2 img {
     max-width: 50rem;
+}
+
+.images img {
+    width: 16rem;
 }
