@@ -12,10 +12,13 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    background-color: #1F2937;
+    padding: 10px 30px;
 }
 
 .right-header {
     display: flex;
+    gap: 30px;
 }
 
 .content1 {
@@ -23,6 +26,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-grow: 1;
+    background-color: #1F2937;
 }
 
 .left-content1 {
@@ -62,10 +66,6 @@ body {
     align-items: center;
     background-color: #1F2937;
     color: #E5E7EB;
-}
-
-.header, .content1 {
-    background-color: #1F2937;
 }
 
 .main-title {
