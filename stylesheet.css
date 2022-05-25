@@ -66,6 +66,7 @@ body {
     flex-grow: 1;
     padding: 50px 100px;
     margin: 100px 500px;
+    border-radius: 10px;
 }
 
 .footer {
@@ -103,6 +104,7 @@ button {
     font-size: 20px;
     color: #E5E7EB;
     cursor: pointer;
+    border-radius: 10px;
 }
 
 .image-title {
@@ -126,4 +128,8 @@ button {
 .text2 {
     color: #E5E7EB;
     font-size: 18px;
+}
+
+.images img {
+    border-radius: 10px;
 }
