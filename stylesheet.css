@@ -92,3 +92,13 @@ ul {
     font-weight: 800;
     color: #1F2937;
 }
+
+.content3 {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
