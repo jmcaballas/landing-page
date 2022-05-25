@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: #1F2937;
-    padding: 10px 30px;
+    padding: 10px 200px;
 }
 
 .right-header {
@@ -23,10 +23,11 @@ body {
 
 .content1 {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-grow: 1;
     background-color: #1F2937;
+    padding: 50px 200px;
 }
 
 .left-content1 {
