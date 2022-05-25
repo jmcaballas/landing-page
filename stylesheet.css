@@ -47,12 +47,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #3882F6;
 }
 
 .footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
 }
 
 .header, .content1 {
@@ -80,7 +83,7 @@ ul {
     color: #F9FAF8
 }
 
-.sign-up button {
+button {
     background-color: #3882F6;
     font-size: 20px;
     color: #E5E7EB;
@@ -101,4 +104,12 @@ ul {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
+}
+
+.text1 {
+    color: #F9FAF8;
+}
+
+.text2 {
+    color: #E5E7EB;
 }
