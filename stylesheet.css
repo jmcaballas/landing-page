@@ -27,7 +27,7 @@ body {
     align-items: center;
     flex-grow: 1;
     background-color: #1F2937;
-    padding: 50px 200px;
+    padding: 100px 200px;
 }
 
 .left-content1 {
@@ -38,11 +38,13 @@ body {
 .content2 {
     text-align: center;
     flex-grow: 1;
+    padding: 100px 0px;
 }
 
 .image-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    padding: 30px 200px;
 }
 
 .content3 {
