@@ -54,6 +54,7 @@ body {
     align-items: center;
     flex-grow: 1;
     padding: 100px 400px;
+    background-color: #E5E7EB;
 }
 
 .content4 {
@@ -62,6 +63,8 @@ body {
     align-items: center;
     background-color: #3882F6;
     flex-grow: 1;
+    padding: 50px 0px;
+    margin: 100px 500px;
 }
 
 .footer {
@@ -104,10 +107,6 @@ button {
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
-}
-
-.content3 {
-    background-color: #E5E7EB;
 }
 
 .quote {
