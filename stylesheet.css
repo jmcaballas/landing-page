@@ -29,6 +29,7 @@ body {
     flex-grow: 1;
     background-color: #1F2937;
     padding: 100px 200px;
+    gap: 100px;
 }
 
 .left-content1 {
